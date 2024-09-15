@@ -1,1 +1,1 @@
-Created test newrepository1.text file
+Modified test newrepository1.text file in branch1
