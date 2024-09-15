@@ -1,1 +1,0 @@
-Modified test newrepository1.text file in branch2
